@@ -1,2 +1,6 @@
 # furry-robot
-just for learning
+just for learning 
+
+Hi guys!
+
+Stay hungry,stay foolish.
